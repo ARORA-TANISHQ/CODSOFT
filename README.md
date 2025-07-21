@@ -1,6 +1,6 @@
 # CODSOFT
 CODSOFT INTERNSHIP
-This repositry contains 3 codes:-
-a) CALCULATOR
-b) PASSWORD GENERATOR
-c) ROCK PAPER SCISSOR GAME
+This repositry contains 3 codes:-<br>
+a. CALCULATOR<br>
+b. PASSWORD GENERATOR<br>
+c. ROCK PAPER SCISSOR GAME<br>
